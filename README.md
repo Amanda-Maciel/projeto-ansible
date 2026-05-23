@@ -89,9 +89,9 @@ Erro: Duplicate entry 'maria@email.com' for key 'email'
 
 | Campo | Informação |
 |-------|------------|
-| **Desenvolvedor(a)** | *(seu nome)* |
+| **Desenvolvedor(a)** | Adriano Ferruzzi - Aluna : Amanda Maciel |
 | **Disciplina** | DevOps — Turma 2026/1 |
-| **Repositório** | https://github.com/seu-usuario/agenda-service |
+| **Repositório** | https://github.com/Amanda-Maciel/projeto-ansible |
 
 ---
 
